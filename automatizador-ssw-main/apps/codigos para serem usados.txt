@@ -1,0 +1,30 @@
+
+# def protege():
+#     pyautogui.click(x=484, y=531)
+#     pyautogui.click(x=378, y=271)
+#     pyautogui.write('MERCADORIAS D')
+#     pyautogui.press('enter')
+#     pyautogui.click(x=323, y=630)
+#     cavalo = pyautogui.prompt(text='Digite a placa do cavalo.', title='Entrada de Dados', default='1')
+#     pyautogui.click(x=304, y=372)
+#     pyautogui.write(cavalo)
+#     pyautogui.press('enter')
+#     pyautogui.press('pagedown')
+#     pyautogui.click(x=253, y=212, clicks=2)
+#     keyboard.add_hotkey('ctrl+v')
+#     pyautogui.click(x=562, y=214)
+#     pyautogui.click(x=508, y=358)
+#     pyautogui.press('pageup')
+#     pyautogui.click(x=789, y=310)
+#     rota = pyautogui.prompt(text='Para onde vai o carregamento?', title='Entrada de Dados', default='1')
+#     if rota == "tub" or rota == "TUB":
+#         pyautogui.click(x=843, y=463)
+#         pyautogui.write('blu x tub')
+#         pyautogui.press('enter')
+#     else:
+#         print('Comando não reconhecido!')
+
+# elif comando == "pro" or comando == "PRO":
+    #     protege()
+    # else:
+    #     print("Comando não reconhecido!")
